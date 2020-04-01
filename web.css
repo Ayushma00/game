@@ -1,0 +1,40 @@
+
+.container1{
+  width: 20%;
+   margin: auto;
+  text-align: center;
+  font-style: italic;
+
+}
+
+.container2{
+  width: 20%;
+  margin-left: 15%;
+  text-align: center;
+  display: inline-block;
+
+  font-style: italic;
+
+}
+
+body{
+  background-color: light blue;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+h2 {
+  margin: 5px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 2rem;
+    color: pink;}
+.fot{
+  text-align: center;
+  margin-top: 40em;
+}
