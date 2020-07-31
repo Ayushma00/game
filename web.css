@@ -19,20 +19,21 @@
 
 body{
   background-color: light blue;
+  text-align: center;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  text-shadow: 3px 0 #232931;
+  font-size: 4rem;
   color: #4ECCA3;
 }
 h2 {
   margin: 5px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 2rem;
+  text-shadow: 3px 0 #232931;
+  font-size: 1rem;
     color: pink;}
 .btn {
   background-color: #25cce6;
