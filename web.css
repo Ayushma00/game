@@ -34,6 +34,28 @@ h2 {
   text-shadow: 5px 0 #232931;
   font-size: 2rem;
     color: pink;}
+.btn {
+  background-color: #25cce6;
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: #5cbf2a;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.button {
+  text-align: center;
+  margin: 30px auto;
+}
+
 .fot{
   text-align: center;
   margin-top: 40em;
