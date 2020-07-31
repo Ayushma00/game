@@ -1,1 +1,2 @@
-# gamejust a js  for beginning learning
+# A javascript dice game
+https://ayushma99.github.io/game/
