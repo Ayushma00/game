@@ -15,7 +15,7 @@ image2.setAttribute("src",randimg2);
 
 
 if(random1 > random2){
-  document.querySelector("h1").innerHTML= "Shrijak WINS";
+  document.querySelector("h1").innerHTML= "Player1 WINS";
 }
 else if(random1 < random2){
   document.querySelector("h1").innerHTML="Aayushma WINS";
