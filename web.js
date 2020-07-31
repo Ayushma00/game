@@ -1,3 +1,8 @@
+
+document.querySelector(".btn").onclick = function() {
+  Random()
+};
+function Random(){
 var ran1=(Math.random());
  var random1=(Math.floor(ran1*6)+1);
 randomimage="dice"+random1+".png";
@@ -23,3 +28,4 @@ else if(random1 < random2){
 else{
   document.querySelector("h1").innerHTML="draw";
 }
+document.querySelector(".btn").innerHTML = "Play Again!";}
